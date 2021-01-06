@@ -1,0 +1,120 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+}
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+section{
+    height: 150px;
+    padding-bottom: 50px;
+}
+
+ul li {
+    font-weight: 500;
+    font-size: 30px;
+    list-style: none;
+    text-decoration: none;
+    display: inline-block;
+    padding: 5px 20px;
+}
+
+.header{
+    padding: 20px 30px;
+    margin: 20px 30px;
+    text-align: right;
+}
+
+.box-1{
+    width: 45%;
+    float: left;
+    margin: 2%;
+    padding: 5%;
+}
+
+.box-2{
+    width: 45%;
+    float: left;
+    margin: 2%;
+    padding: 5%;
+}
+
+.box-3{
+    width: 50%;
+    margin: 5%;
+    padding: 2%;
+}
+
+.box-4{
+    width: 45%;
+    float: left;
+    margin: 2%;
+    padding: 5%;
+}
+
+h1{
+    font-size: 60px;
+}
+
+.highlighted{
+    color: #f08080;
+}
+
+p{
+    font-size: 20px;
+    padding-top: 10px;
+    color: slategray;
+    padding-bottom: 40px;
+}
+
+.button{
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 7px;
+    background-image: linear-gradient(45deg, #f507a6, #bf1b89);
+    font-weight: 500;
+    color: #ffffff;
+}
+
+.first-img{
+    width: 90%;
+}
+
+.second-img{
+    width: 90%;
+}
+
+h2{
+    font-size: 30px;
+    text-align: center;
+}
+
+.image{
+    float: left;
+    width: 33.3%;
+    padding: 20px;
+}
+
+.box-4 h2{
+    padding: 80px;
+}
+
+.form{
+    padding: 30px;
+}
+
+.form label{
+    display: block;
+}
+
+.form input{
+    width: 100%;
+    padding: 6px;
+}
+
+.form-group{
+    padding-bottom: 10px;
+}
